@@ -892,6 +892,7 @@ a {
 }
 
 .testi-card--screenshot {
+  height: 300px;
   padding: 0;
   overflow: hidden;
 }
